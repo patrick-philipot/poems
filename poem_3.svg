@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="poem_3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.7765496"
+     inkscape:cx="433.70588"
+     inkscape:cy="838.98586"
+     inkscape:window-width="1440"
+     inkscape:window-height="787"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3">
+    <sodipodi:guide
+       position="-83.640808,177"
+       orientation="0,1"
+       id="guide9"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-74.124788,157"
+       orientation="0,1"
+       id="guide11"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="20,177.00001"
+       orientation="-1,0"
+       id="guide1142"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-81.674998,277"
+       orientation="0,1"
+       id="guide1144"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-70.007141,57"
+       orientation="0,1"
+       id="guide1146"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="110,199.94465"
+       orientation="-1,0"
+       id="guide1177"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="90,251.91965"
+       orientation="-1,0"
+       id="guide1179"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="180,206.83929"
+       orientation="-1,0"
+       id="guide1181"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="75.590551"
+       y="75.590554"
+       width="264.56693"
+       height="377.95275"
+       id="rect4979" />
+    <rect
+       x="75.590551"
+       y="75.590554"
+       width="264.56693"
+       height="377.95275"
+       id="rect26659" />
+    <rect
+       x="75.590551"
+       y="75.590554"
+       width="271.7599"
+       height="536.30166"
+       id="rect42257" />
+    <rect
+       x="75.590551"
+       y="75.590554"
+       width="267.62667"
+       height="346.62804"
+       id="rect47465" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect35"
+       width="70"
+       height="100"
+       x="20"
+       y="20.000004" />
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1136"
+       width="70"
+       height="100"
+       x="110"
+       y="20.000004" />
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1138"
+       width="70"
+       height="100"
+       x="20"
+       y="140" />
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1140"
+       width="70"
+       height="100"
+       x="110"
+       y="140" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Cut Mark"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 20,16.052774 C 19.959423,-2.5570791 20,-2.5570791 20,-2.5570791 M -5.1851881,20.000001 c 21.2379621,0.03045 21.2379621,0 21.2379621,0 m 81.045201,0 c 6.605785,-0.04058 6.605785,0 6.605785,0 M 90,0 c -0.07605,14.205995 0,14.205995 0,14.205995 M 110,0 c -0.0456,13.779815 0,13.779815 0,13.779815 m 75.10411,6.220186 c 28.9092,0.03045 28.9092,0 28.9092,0 M 180,16.194834 c 0.061,-19.036033 0,-18.965003 0,-18.965003"
+       id="path1370" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 186.38265,120 c 27.34654,0.0407 27.34654,0 27.34654,0 m -27.27551,20 c 27.20448,-0.14198 27.20448,0 27.20448,0 M 180,128.35116 c -0.0811,4.83004 0,4.83004 0,4.83004 M 184.81999,240 c 30.25877,-0.13178 30.25877,0 30.25877,0 M 180,244.41414 c -0.01,28.98023 0,28.9092 0,28.9092"
+       id="path1372" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 94.327804,240 c 10.654496,0 10.654496,0 10.654496,0"
+       id="path1374" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 110,247.3974 c 0,27.77273 0,27.77273 0,27.77273"
+       id="path1376" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 89.999999,247.61049 c 0,26.13904 0,26.13904 0,26.13904"
+       id="path1378" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 20,245.76371 c 0,25.99697 0,25.99697 0,25.99697"
+       id="path1380" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 13.566725,240 c -26.49418,0 -26.49418,0 -26.49418,0"
+       id="path1382" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 93.732994,120 c 10.325896,0 10.325896,0 10.325896,0"
+       id="path282" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 110,125.00156 c 0,7.99894 0,7.99894 0,7.99894"
+       id="path284" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 95.187345,140 c 7.708065,0 7.708065,0 7.708065,0"
+       id="path286" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 89.999999,124.34711 c 0,10.7622 0,10.7622 0,10.7622"
+       id="path288" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 13.993495,140 c -21.8166301,0 -21.8166301,0 -21.8166301,0"
+       id="path359" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 11.789795,120 c -20.9351501,0 -20.9351501,0 -20.9351501,0"
+       id="path554" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="M 20,124.83961 C 20,135.197 20,135.197 20,135.197"
+       id="path556" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="texte">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24597552,0,0,0.27463312,4.5602926,7.6281088)"
+       id="text4977"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';white-space:pre;shape-inside:url(#rect4979)"><tspan
+         x="75.589844"
+         y="85.619599"
+         id="tspan46951"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46949">Salut ! bois couronnés d'un reste de verdure !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="99.37465"
+         id="tspan46955"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46953">Feuillages jaunissants sur les gazons épars !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="113.1297"
+         id="tspan46959"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46957">Salut, derniers beaux jours ! Le deuil de la nature
+</tspan></tspan><tspan
+         x="75.589844"
+         y="126.88475"
+         id="tspan46963"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46961">Convient à la douleur et plaît à mes regards !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="140.6398"
+         id="tspan46967"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46965">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="154.39485"
+         id="tspan46971"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46969">Je suis d'un pas rêveur le sentier solitaire,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="168.1499"
+         id="tspan46975"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46973">J'aime à revoir encor, pour la dernière fois,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="181.90495"
+         id="tspan46979"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46977">Ce soleil pâlissant, dont la faible lumière
+</tspan></tspan><tspan
+         x="75.589844"
+         y="195.66"
+         id="tspan46983"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46981">Perce à peine à mes pieds l'obscurité des bois !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="209.41506"
+         id="tspan46987"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46985">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="223.17011"
+         id="tspan46991"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46989">Oui, dans ces jours d'automne où la nature expire,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="236.92516"
+         id="tspan46995"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46993">A ses regards voilés, je trouve plus d'attraits,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="250.68021"
+         id="tspan46999"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan46997">C'est l'adieu d'un ami, c'est le dernier sourire
+</tspan></tspan><tspan
+         x="75.589844"
+         y="264.43526"
+         id="tspan47003"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47001">Des lèvres que la mort va fermer pour jamais !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="278.19031"
+         id="tspan47007"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47005">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="291.94537"
+         id="tspan47011"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47009">Ainsi, prêt à quitter l'horizon de la vie,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="305.70044"
+         id="tspan47015"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47013">Pleurant de mes longs jours l'espoir évanoui,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="319.45551"
+         id="tspan47019"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47017">Je me retourne encore, et d'un regard d'envie
+</tspan></tspan><tspan
+         x="75.589844"
+         y="333.21057"
+         id="tspan47023"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47021">Je contemple ses biens dont je n'ai pas joui !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="346.96564"
+         id="tspan47027"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47025">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24597552,0,0,0.27463312,95.047801,7.6281088)"
+       id="text26657"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';white-space:pre;shape-inside:url(#rect26659)"><tspan
+         x="75.589844"
+         y="85.619599"
+         id="tspan47031"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47029">Terre, soleil, vallons, belle et douce nature,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="99.37465"
+         id="tspan47035"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47033">Je vous dois une larme aux bords de mon tombeau ;
+</tspan></tspan><tspan
+         x="75.589844"
+         y="113.1297"
+         id="tspan47039"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47037">L'air est si parfumé ! la lumière est si pure !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="126.88475"
+         id="tspan47043"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47041">Aux regards d'un mourant le soleil est si beau !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="140.6398"
+         id="tspan47047"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47045">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="154.39485"
+         id="tspan47051"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47049">Je voudrais maintenant vider jusqu'à la lie
+</tspan></tspan><tspan
+         x="75.589844"
+         y="168.1499"
+         id="tspan47055"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47053">Ce calice mêlé de nectar et de fiel !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="181.90495"
+         id="tspan47059"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47057">Au fond de cette coupe où je buvais la vie,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="195.66"
+         id="tspan47063"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47061">Peut-être restait-il une goutte de miel ?
+</tspan></tspan><tspan
+         x="75.589844"
+         y="209.41506"
+         id="tspan47067"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47065">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="223.17011"
+         id="tspan47071"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47069">Peut-être l'avenir me gardait-il encore
+</tspan></tspan><tspan
+         x="75.589844"
+         y="236.92516"
+         id="tspan47075"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47073">Un retour de bonheur dont l'espoir est perdu ?
+</tspan></tspan><tspan
+         x="75.589844"
+         y="250.68021"
+         id="tspan47079"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47077">Peut-être dans la foule, une âme que j'ignore
+</tspan></tspan><tspan
+         x="75.589844"
+         y="264.43526"
+         id="tspan47083"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47081">Aurait compris mon âme, et m'aurait répondu ?
+</tspan></tspan><tspan
+         x="75.589844"
+         y="278.19031"
+         id="tspan47087"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47085">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="291.94537"
+         id="tspan47091"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47089">La fleur tombe en livrant ses parfums au zéphire ;
+</tspan></tspan><tspan
+         x="75.589844"
+         y="305.70044"
+         id="tspan47095"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47093">A la vie, au soleil, ce sont là ses adieux ;
+</tspan></tspan><tspan
+         x="75.589844"
+         y="319.45551"
+         id="tspan47099"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47097">Moi, je meurs; et mon âme, au moment qu'elle expire,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="333.21057"
+         id="tspan47103"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47101">S'exhale comme un son triste et mélodieux.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="346.96564"
+         id="tspan47107"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47105">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="360.7207"
+         id="tspan47111"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47109">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="374.47577"
+         id="tspan47115"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47113">Alphonse de Lamartine.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24597552,0,0,0.27463312,4.5602926,124.04479)"
+       id="text42255"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';white-space:pre;shape-inside:url(#rect42257)"><tspan
+         x="75.589844"
+         y="85.619599"
+         id="tspan47119"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47117">Que sont mes amis devenus
+</tspan></tspan><tspan
+         x="75.589844"
+         y="99.37465"
+         id="tspan47123"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47121">Que j'avais de si près tenus
+</tspan></tspan><tspan
+         x="75.589844"
+         y="113.1297"
+         id="tspan47127"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47125">Et tant aimés
+</tspan></tspan><tspan
+         x="75.589844"
+         y="126.88475"
+         id="tspan47131"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47129">Ils ont été trop clairsemés
+</tspan></tspan><tspan
+         x="75.589844"
+         y="140.6398"
+         id="tspan47135"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47133">Je crois le vent les a ôtés
+</tspan></tspan><tspan
+         x="75.589844"
+         y="154.39485"
+         id="tspan47139"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47137">L'amour est morte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="168.1499"
+         id="tspan47143"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47141">Ce sont amis que vent me porte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="181.90495"
+         id="tspan47147"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47145">Et il ventait devant ma porte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="195.66"
+         id="tspan47151"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47149">Les emporta
+</tspan></tspan><tspan
+         x="75.589844"
+         y="209.41506"
+         id="tspan47155"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47153">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="223.17011"
+         id="tspan47159"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47157">Avec le temps qu'arbre défeuille
+</tspan></tspan><tspan
+         x="75.589844"
+         y="236.92516"
+         id="tspan47163"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47161">Quand il ne reste en branche feuille
+</tspan></tspan><tspan
+         x="75.589844"
+         y="250.68021"
+         id="tspan47167"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47165">Qui n'aille à terre
+</tspan></tspan><tspan
+         x="75.589844"
+         y="264.43526"
+         id="tspan47171"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47169">Avec pauvreté qui m'atterre
+</tspan></tspan><tspan
+         x="75.589844"
+         y="278.19031"
+         id="tspan47175"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47173">Qui de partout me fait la guerre
+</tspan></tspan><tspan
+         x="75.589844"
+         y="291.94537"
+         id="tspan47179"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47177">Au temps d'hiver
+</tspan></tspan><tspan
+         x="75.589844"
+         y="305.70044"
+         id="tspan47183"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47181">Ne convient pas que vous raconte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="319.45551"
+         id="tspan47187"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47185">Comment je me suis mis à honte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="333.21057"
+         id="tspan47191"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47189">En quelle manière
+</tspan></tspan><tspan
+         x="75.589844"
+         y="346.96564"
+         id="tspan47195"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47193">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24597552,0,0,0.27463312,95.576965,124.04479)"
+       id="text47463"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';white-space:pre;shape-inside:url(#rect47465)"><tspan
+         x="75.589844"
+         y="85.619599"
+         id="tspan47199"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47197">Que sont mes amis devenus
+</tspan></tspan><tspan
+         x="75.589844"
+         y="99.37465"
+         id="tspan47203"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47201">Que j'avais de si près tenus
+</tspan></tspan><tspan
+         x="75.589844"
+         y="113.1297"
+         id="tspan47207"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47205">Et tant aimés
+</tspan></tspan><tspan
+         x="75.589844"
+         y="126.88475"
+         id="tspan47211"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47209">Ils ont été trop clairsemés
+</tspan></tspan><tspan
+         x="75.589844"
+         y="140.6398"
+         id="tspan47215"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47213">Je crois le vent les a ôtés
+</tspan></tspan><tspan
+         x="75.589844"
+         y="154.39485"
+         id="tspan47219"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47217">L'amour est morte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="168.1499"
+         id="tspan47223"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47221">Le mal ne sait pas seul venir
+</tspan></tspan><tspan
+         x="75.589844"
+         y="181.90495"
+         id="tspan47227"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47225">Tout ce qui m'était à venir
+</tspan></tspan><tspan
+         x="75.589844"
+         y="195.66"
+         id="tspan47231"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47229">M'est advenu
+</tspan></tspan><tspan
+         x="75.589844"
+         y="209.41506"
+         id="tspan47235"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47233">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="223.17011"
+         id="tspan47239"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47237">Pauvre sens et pauvre mémoire
+</tspan></tspan><tspan
+         x="75.589844"
+         y="236.92516"
+         id="tspan47243"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47241">M'a Dieu donné, le roi de gloire
+</tspan></tspan><tspan
+         x="75.589844"
+         y="250.68021"
+         id="tspan47247"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47245">Et pauvre rente
+</tspan></tspan><tspan
+         x="75.589844"
+         y="264.43526"
+         id="tspan47251"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47249">Et droit au cul quand bise vente
+</tspan></tspan><tspan
+         x="75.589844"
+         y="278.19031"
+         id="tspan47255"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47253">Le vent me vient, le vent m'évente
+</tspan></tspan><tspan
+         x="75.589844"
+         y="291.94537"
+         id="tspan47259"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47257">L'amour est morte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="305.70044"
+         id="tspan47263"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47261">Ce sont amis que vent emporte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="319.45551"
+         id="tspan47267"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47265">Et il ventait devant ma porte
+</tspan></tspan><tspan
+         x="75.589844"
+         y="333.21057"
+         id="tspan47271"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47269">Les emporta
+</tspan></tspan><tspan
+         x="75.589844"
+         y="346.96564"
+         id="tspan47275"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47273">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="360.7207"
+         id="tspan47279"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47277">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="374.47577"
+         id="tspan47283"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47281"> Rutebeuf (1230-1285)
+</tspan></tspan><tspan
+         x="75.589844"
+         y="388.23084"
+         id="tspan47287"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan47285"> </tspan></tspan></text>
+  </g>
+</svg>

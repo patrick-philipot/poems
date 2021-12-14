@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="poem_4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.2190006"
+     inkscape:cx="162.83831"
+     inkscape:cy="777.27607"
+     inkscape:window-width="1440"
+     inkscape:window-height="787"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3">
+    <sodipodi:guide
+       position="-83.640808,177"
+       orientation="0,1"
+       id="guide9"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-74.124788,157"
+       orientation="0,1"
+       id="guide11"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="20,177.00001"
+       orientation="-1,0"
+       id="guide1142"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-81.674998,277"
+       orientation="0,1"
+       id="guide1144"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-70.007141,57"
+       orientation="0,1"
+       id="guide1146"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="110,199.94465"
+       orientation="-1,0"
+       id="guide1177"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="90,251.91965"
+       orientation="-1,0"
+       id="guide1179"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="180,206.83929"
+       orientation="-1,0"
+       id="guide1181"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="75.590551"
+       y="75.590554"
+       width="264.56693"
+       height="377.95275"
+       id="rect4979" />
+    <rect
+       x="75.590551"
+       y="75.590554"
+       width="264.56693"
+       height="377.95275"
+       id="rect26659" />
+    <rect
+       x="75.590551"
+       y="75.590554"
+       width="271.7599"
+       height="536.30166"
+       id="rect42257" />
+    <rect
+       x="75.590551"
+       y="75.590554"
+       width="267.62667"
+       height="346.62804"
+       id="rect47465" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect35"
+       width="70"
+       height="100"
+       x="20"
+       y="20.000004" />
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1136"
+       width="70"
+       height="100"
+       x="110"
+       y="20.000004" />
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1138"
+       width="70"
+       height="100"
+       x="20"
+       y="140" />
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1140"
+       width="70"
+       height="100"
+       x="110"
+       y="140" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Cut Mark"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 20,16.052774 C 19.959423,-2.5570791 20,-2.5570791 20,-2.5570791 M -5.1851881,20.000001 c 21.2379621,0.03045 21.2379621,0 21.2379621,0 m 81.045201,0 c 6.605785,-0.04058 6.605785,0 6.605785,0 M 90,0 c -0.07605,14.205995 0,14.205995 0,14.205995 M 110,0 c -0.0456,13.779815 0,13.779815 0,13.779815 m 75.10411,6.220186 c 28.9092,0.03045 28.9092,0 28.9092,0 M 180,16.194834 c 0.061,-19.036033 0,-18.965003 0,-18.965003"
+       id="path1370" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 186.38265,120 c 27.34654,0.0407 27.34654,0 27.34654,0 m -27.27551,20 c 27.20448,-0.14198 27.20448,0 27.20448,0 M 180,128.35116 c -0.0811,4.83004 0,4.83004 0,4.83004 M 184.81999,240 c 30.25877,-0.13178 30.25877,0 30.25877,0 M 180,244.41414 c -0.01,28.98023 0,28.9092 0,28.9092"
+       id="path1372" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 94.327804,240 c 10.654496,0 10.654496,0 10.654496,0"
+       id="path1374" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 110,247.3974 c 0,27.77273 0,27.77273 0,27.77273"
+       id="path1376" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 89.999999,247.61049 c 0,26.13904 0,26.13904 0,26.13904"
+       id="path1378" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 20,245.76371 c 0,25.99697 0,25.99697 0,25.99697"
+       id="path1380" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 13.566725,240 c -26.49418,0 -26.49418,0 -26.49418,0"
+       id="path1382" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 93.732994,120 c 10.325896,0 10.325896,0 10.325896,0"
+       id="path282" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 110,125.00156 c 0,7.99894 0,7.99894 0,7.99894"
+       id="path284" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 95.187345,140 c 7.708065,0 7.708065,0 7.708065,0"
+       id="path286" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 89.999999,124.34711 c 0,10.7622 0,10.7622 0,10.7622"
+       id="path288" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 13.993495,140 c -21.8166301,0 -21.8166301,0 -21.8166301,0"
+       id="path359" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="m 11.789795,120 c -20.9351501,0 -20.9351501,0 -20.9351501,0"
+       id="path554" />
+    <path
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529167"
+       d="M 20,124.83961 C 20,135.197 20,135.197 20,135.197"
+       id="path556" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="texte">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24597552,0,0,0.27463312,4.5602926,7.6281088)"
+       id="text4977"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';white-space:pre;shape-inside:url(#rect4979)"><tspan
+         x="75.589844"
+         y="85.197921"
+         id="tspan124819">Si…
+</tspan><tspan
+         x="75.589844"
+         y="98.531295"
+         id="tspan124821">
+</tspan><tspan
+         x="75.589844"
+         y="111.86467"
+         id="tspan124823">Si tu peux voir détruit l’ouvrage de ta vie
+</tspan><tspan
+         x="75.589844"
+         y="125.19804"
+         id="tspan124825">Et sans dire un seul mot te mettre à rebâtir,
+</tspan><tspan
+         x="75.589844"
+         y="138.53142"
+         id="tspan124827">Ou perdre en un seul coup le gain de cent parties
+</tspan><tspan
+         x="75.589844"
+         y="151.86479"
+         id="tspan124829">Sans un geste et sans un soupir ;
+</tspan><tspan
+         x="75.589844"
+         y="165.19817"
+         id="tspan124831">
+</tspan><tspan
+         x="75.589844"
+         y="178.53154"
+         id="tspan124833">Si tu peux être amant sans être fou d’amour,
+</tspan><tspan
+         x="75.589844"
+         y="191.86491"
+         id="tspan124835">Si tu peux être fort sans cesser d’être tendre,
+</tspan><tspan
+         x="75.589844"
+         y="205.19829"
+         id="tspan124837">Et, te sentant haï, sans haïr à ton tour,
+</tspan><tspan
+         x="75.589844"
+         y="218.53166"
+         id="tspan124839">Pourtant lutter et te défendre ;
+</tspan><tspan
+         x="75.589844"
+         y="231.86504"
+         id="tspan124841">
+</tspan><tspan
+         x="75.589844"
+         y="245.19841"
+         id="tspan124843">Si tu peux supporter d’entendre tes paroles
+</tspan><tspan
+         x="75.589844"
+         y="258.53178"
+         id="tspan124845">Travesties par des gueux pour exciter des sots,
+</tspan><tspan
+         x="75.589844"
+         y="271.86516"
+         id="tspan124847">Et d’entendre mentir sur toi leurs bouches folles
+</tspan><tspan
+         x="75.589844"
+         y="285.19853"
+         id="tspan124849">Sans mentir toi-même d’un mot ;
+</tspan><tspan
+         x="75.589844"
+         y="298.53191"
+         id="tspan124851">
+</tspan><tspan
+         x="75.589844"
+         y="311.86528"
+         id="tspan124853">Si tu peux rester digne en étant populaire,
+</tspan><tspan
+         x="75.589844"
+         y="325.19865"
+         id="tspan124855">Si tu peux rester peuple en conseillant les rois,
+</tspan><tspan
+         x="75.589844"
+         y="338.53203"
+         id="tspan124857">Et si tu peux aimer tous tes amis en frère,
+</tspan><tspan
+         x="75.589844"
+         y="351.8654"
+         id="tspan124859">Sans qu’aucun d’eux soit tout pour toi ;</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24597552,0,0,0.27463312,95.047801,7.6281088)"
+       id="text26657"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';white-space:pre;shape-inside:url(#rect26659)"><tspan
+         x="75.589844"
+         y="85.197921"
+         id="tspan124861">
+</tspan><tspan
+         x="75.589844"
+         y="98.531295"
+         id="tspan124863">
+</tspan><tspan
+         x="75.589844"
+         y="111.86467"
+         id="tspan124865">Si tu sais méditer, observer et connaitre,
+</tspan><tspan
+         x="75.589844"
+         y="125.19804"
+         id="tspan124867">Sans jamais devenir sceptique ou destructeur,
+</tspan><tspan
+         x="75.589844"
+         y="138.53142"
+         id="tspan124869">Rêver, mais sans laisser ton rêve être ton maitre,
+</tspan><tspan
+         x="75.589844"
+         y="151.86479"
+         id="tspan124871">Penser sans n’être qu’un penseur ;
+</tspan><tspan
+         x="75.589844"
+         y="165.19817"
+         id="tspan124873">
+</tspan><tspan
+         x="75.589844"
+         y="178.53154"
+         id="tspan124875">Si tu peux être dur sans jamais être en rage,
+</tspan><tspan
+         x="75.589844"
+         y="191.86491"
+         id="tspan124877">Si tu peux être brave et jamais imprudent,
+</tspan><tspan
+         x="75.589844"
+         y="205.19829"
+         id="tspan124879">Si tu sais être bon, si tu sais être sage,
+</tspan><tspan
+         x="75.589844"
+         y="218.53166"
+         id="tspan124881">Sans être moral ni pédant ;
+</tspan><tspan
+         x="75.589844"
+         y="231.86504"
+         id="tspan124883">
+</tspan><tspan
+         x="75.589844"
+         y="245.19841"
+         id="tspan124885">Si tu peux rencontrer Triomphe après Défaite
+</tspan><tspan
+         x="75.589844"
+         y="258.53178"
+         id="tspan124887">Et recevoir ces deux menteurs d’un même front,
+</tspan><tspan
+         x="75.589844"
+         y="271.86516"
+         id="tspan124889">Si tu peux conserver ton courage et ta tête
+</tspan><tspan
+         x="75.589844"
+         y="285.19853"
+         id="tspan124891">Quand tous les autres les perdront,
+</tspan><tspan
+         x="75.589844"
+         y="298.53191"
+         id="tspan124893">
+</tspan><tspan
+         x="75.589844"
+         y="311.86528"
+         id="tspan124895">Alors les Rois, les Dieux, la Chance et la Victoire
+</tspan><tspan
+         x="75.589844"
+         y="325.19865"
+         id="tspan124897">Seront à tout jamais tes esclaves soumis,
+</tspan><tspan
+         x="75.589844"
+         y="338.53203"
+         id="tspan124899">Et, ce qui vaut mieux que les Rois et la Gloire
+</tspan><tspan
+         x="75.589844"
+         y="351.8654"
+         id="tspan124901">Tu seras un homme, mon fils.
+</tspan><tspan
+         x="75.589844"
+         y="365.19878"
+         id="tspan124903">
+</tspan><tspan
+         x="75.589844"
+         y="378.53215"
+         id="tspan124905">Rudyard Kipling</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24597552,0,0,0.27463312,4.5602926,124.04479)"
+       id="text42255"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';white-space:pre;shape-inside:url(#rect42257)"><tspan
+         x="75.589844"
+         y="85.619599"
+         id="tspan124909"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124907">Sonnet.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="99.37465"
+         id="tspan124913"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124911">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="113.1297"
+         id="tspan124917"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124915">C'est un trou de verdure où chante une rivière,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="126.88475"
+         id="tspan124921"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124919">Accrochant follement aux herbes des haillons
+</tspan></tspan><tspan
+         x="75.589844"
+         y="140.6398"
+         id="tspan124925"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124923">D'argent ; où le soleil, de la montagne fière,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="154.39485"
+         id="tspan124929"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124927">Luit : c'est un petit val qui mousse de rayons.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="168.1499"
+         id="tspan124933"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124931">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="181.90495"
+         id="tspan124937"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124935">Un soldat jeune, bouche ouverte, tête nue,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="195.66"
+         id="tspan124941"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124939">Et la nuque baignant dans le frais cresson bleu,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="209.41506"
+         id="tspan124945"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124943">Dort ; il est étendu dans l'herbe, sous la nue,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="223.17011"
+         id="tspan124949"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124947">Pâle dans son lit vert où la lumière pleut.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="236.92516"
+         id="tspan124953"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124951">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="250.68021"
+         id="tspan124957"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124955">Les pieds dans les glaïeuls, il dort. Souriant comme
+</tspan></tspan><tspan
+         x="75.589844"
+         y="264.43526"
+         id="tspan124961"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124959">Sourirait un enfant malade, il fait un somme :
+</tspan></tspan><tspan
+         x="75.589844"
+         y="278.19031"
+         id="tspan124965"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124963">Nature, berce-le chaudement : il a froid.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="291.94537"
+         id="tspan124969"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124967">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="305.70044"
+         id="tspan124973"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124971">Les parfums ne font pas frissonner sa narine ;
+</tspan></tspan><tspan
+         x="75.589844"
+         y="319.45551"
+         id="tspan124977"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124975">Il dort dans le soleil, la main sur sa poitrine,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="333.21057"
+         id="tspan124981"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124979">Tranquille. Il a deux trous rouges au côté droit.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="346.96564"
+         id="tspan124985"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124983">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="360.7207"
+         id="tspan124989"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124987">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="374.47577"
+         id="tspan124993"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124991">Arthur Rimbaud. </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24597552,0,0,0.27463312,95.576965,124.04479)"
+       id="text47463"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';white-space:pre;shape-inside:url(#rect47465)"><tspan
+         x="75.589844"
+         y="85.619599"
+         id="tspan124997"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124995">L’albatros
+</tspan></tspan><tspan
+         x="75.589844"
+         y="99.37465"
+         id="tspan125001"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan124999">Charles Baudelaire
+</tspan></tspan><tspan
+         x="75.589844"
+         y="113.1297"
+         id="tspan125005"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125003">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="126.88475"
+         id="tspan125009"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125007">Souvent, pour s’amuser, les hommes d’équipage
+</tspan></tspan><tspan
+         x="75.589844"
+         y="140.6398"
+         id="tspan125013"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125011">Prennent des albatros, vastes oiseaux des mers,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="154.39485"
+         id="tspan125017"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125015">Qui suivent, indolents compagnons de voyage,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="168.1499"
+         id="tspan125021"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125019">Le navire glissant sur les gouffres amers.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="181.90495"
+         id="tspan125025"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125023">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="195.66"
+         id="tspan125029"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125027">A peine les ont-ils déposés sur les planches,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="209.41506"
+         id="tspan125033"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125031">Que ces rois de l’azur, maladroits et honteux,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="223.17011"
+         id="tspan125037"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125035">Laissent piteusement leurs grandes ailes blanches
+</tspan></tspan><tspan
+         x="75.589844"
+         y="236.92516"
+         id="tspan125041"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125039">Comme des avirons traîner à côté d’eux.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="250.68021"
+         id="tspan125045"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125043">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="264.43526"
+         id="tspan125049"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125047">Ce voyageur ailé, comme il est gauche et veule !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="278.19031"
+         id="tspan125053"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125051">Lui, naguère si beau, qu’il est comique et laid !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="291.94537"
+         id="tspan125057"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125055">L’un agace son bec avec un brûle-gueule,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="305.70044"
+         id="tspan125061"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125059">L’autre mime, en boitant, l’infirme qui volait !
+</tspan></tspan><tspan
+         x="75.589844"
+         y="319.45551"
+         id="tspan125065"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125063">
+</tspan></tspan><tspan
+         x="75.589844"
+         y="333.21057"
+         id="tspan125069"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125067">Le Poète est semblable au prince des nuées
+</tspan></tspan><tspan
+         x="75.589844"
+         y="346.96564"
+         id="tspan125073"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125071">Qui hante la tempête et se rit de l’archer ;
+</tspan></tspan><tspan
+         x="75.589844"
+         y="360.7207"
+         id="tspan125077"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125075">Exilé sur le sol au milieu des huées,
+</tspan></tspan><tspan
+         x="75.589844"
+         y="374.47577"
+         id="tspan125081"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125079">Ses ailes de géant l’empêchent de marcher.
+</tspan></tspan><tspan
+         x="75.589844"
+         y="388.23084"
+         id="tspan125085"><tspan
+           style="font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal'"
+           id="tspan125083">
+</tspan></tspan></text>
+  </g>
+</svg>
